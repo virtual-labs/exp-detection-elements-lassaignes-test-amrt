@@ -1,3 +1,3 @@
 ### Aim of the experiment
 
-- To separate Organic compounds with the help of Column Chromatographic technique.
+- To detect the halogens, nitrogen and sulphur in an organic compound.
