@@ -1,0 +1,56 @@
+{
+  "version": 2.0,
+  "questions": [
+   {
+      "question": "What is the role of sodium metal in Lassaigne’s test?",
+      "answers": {
+        "a": "It acts as a reducing agent",
+        "b": "It converts covalent compounds to ionic form",
+        "c": "It neutralizes acidic impurities",
+        "d": "It decomposes water"
+      },
+      "explanations": {
+        "a": "Sodium is not primarily acting as a reducing agent in this test.",
+        "b": "Correct. Sodium converts covalently bonded non-metals into ionic compounds detectable in solution.",
+        "c": "Neutralizing acidic impurities is not the role of sodium in this context.",
+        "d": "While sodium reacts with water, its key role is not to decompose it here."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The appearance of a blood red coloration during Lassaigne’s test indicates the presence of:",
+      "answers": {
+        "a": "Sulphur only",
+        "b": "Nitrogen only",
+        "c": "Both nitrogen and sulphur",
+        "d": "Chlorine"
+      },
+      "explanations": {
+        "a": "Sulphur alone gives a violet colour with nitroprusside, not blood red.",
+        "b": "Nitrogen alone gives a blue coloration with FeSO₄ and FeCl₃.",
+        "c": "Correct. The red colour comes from formation of [Fe(SCN)]²⁺ due to NaSCN.",
+        "d": "Chlorine gives a white precipitate with AgNO₃, not blood red colour."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is not a step in the preparation of Lassaigne’s extract?",
+      "answers": {
+        "a": "Fusion of compound with metallic sodium",
+        "b": "Dipping hot ignition tube in water",
+        "c": "Filtering the aqueous mixture",
+        "d": "Reacting extract with concentrated H₂SO₄"
+      },
+      "explanations": {
+        "a": "This is a critical first step.",
+        "b": "This helps in extraction of ionic compounds formed.",
+        "c": "Filtration is required before testing the extract.",
+        "d": "Correct. H₂SO₄ is not used in this procedure."
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
