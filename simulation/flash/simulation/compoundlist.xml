@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<allcompound>
+
+<compoundtype id="Urea">
+<agent>Urea</agent>
+<answer>N</answer>
+</compoundtype>
+
+<compoundtype id="Dicholorobenzene">
+<agent>Dicholorobenzene</agent>
+<answer>Cl</answer>
+</compoundtype>
+
+<compoundtype id="ThioUrea">
+<agent>ThioUrea</agent>
+<answer>S</answer>
+<answer>N</answer>
+</compoundtype>
+
+</allcompound>
